@@ -1,6 +1,6 @@
 {
   "gitSyncId": "673c5619795462069dbcdd22_5929ac28-1b89-4ad0-a7ac-d363f9413086",
-  "id": "Page1_Post",
+  "id": "First page Shadab_Post",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -46,7 +46,7 @@
     ],
     "executeOnLoad": false,
     "name": "Post",
-    "pageId": "Page1",
+    "pageId": "First page Shadab",
     "userSetOnLoad": false
   }
 }
